@@ -81,3 +81,5 @@ A small local Ollama model will hallucinate C# API details and confidently write
 
 - The root `CSharpDsaAcademy.slnx` includes every module's `src` and `tests` project, so `dotnet build`/`dotnet test` from the repo root touches everything.
 - `solution/Solution.cs` files are intentionally **not** part of any `.csproj` — they exist purely as reference text, so there's never a naming collision with your in-progress `src` code and they never accidentally get compiled or run.
+
+**Last updated:** 2026-07-28

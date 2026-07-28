@@ -1,6 +1,12 @@
 # C# DSA Academy
 
+**Status: in progress** — see [`PROGRESS.md`](PROGRESS.md) for which modules are done.
+
 A project-based, offline-first curriculum for relearning Data Structures & Algorithms in C#. Every module is a real, runnable .NET project with a starter stub, a full xUnit test suite that defines "done," and a reference solution to fall back on.
+
+## About this project
+
+I had Claude scaffold the curriculum structure — the 12 module folders, the stub method signatures, the xUnit test suites that define "done" for each one, and the reference solutions. From there, the actual implementation work is mine: I'm working through each module myself, writing the code that makes the tests go green, and documenting my reasoning as I go (in commit messages and in-code comments explaining *why* an approach works, not just what it does). The scaffolding saved me the boilerplate of writing 12 sets of test suites by hand; the DSA work itself — understanding the problems, implementing the algorithms, debugging failing tests — is what I'm actually doing and learning from.
 
 Built for working **offline** with only a local Ollama model for help — every README is self-contained: syntax refreshers, problem statements, escalating hints, and worked examples for the hard parts. You shouldn't need internet access to get through this.
 

@@ -1,0 +1,87 @@
+<Solution>
+  <Folder Name="/modules/" />
+  <Folder Name="/modules/01-arrays-strings/" />
+  <Folder Name="/modules/01-arrays-strings/src/">
+    <Project Path="modules/01-arrays-strings/src/ArraysStrings/ArraysStrings.csproj" />
+  </Folder>
+  <Folder Name="/modules/01-arrays-strings/tests/">
+    <Project Path="modules/01-arrays-strings/tests/ArraysStrings.Tests/ArraysStrings.Tests.csproj" />
+  </Folder>
+  <Folder Name="/modules/02-linked-lists/" />
+  <Folder Name="/modules/02-linked-lists/src/">
+    <Project Path="modules/02-linked-lists/src/LinkedLists/LinkedLists.csproj" />
+  </Folder>
+  <Folder Name="/modules/02-linked-lists/tests/">
+    <Project Path="modules/02-linked-lists/tests/LinkedLists.Tests/LinkedLists.Tests.csproj" />
+  </Folder>
+  <Folder Name="/modules/03-stacks-queues/" />
+  <Folder Name="/modules/03-stacks-queues/src/">
+    <Project Path="modules/03-stacks-queues/src/StacksQueues/StacksQueues.csproj" />
+  </Folder>
+  <Folder Name="/modules/03-stacks-queues/tests/">
+    <Project Path="modules/03-stacks-queues/tests/StacksQueues.Tests/StacksQueues.Tests.csproj" />
+  </Folder>
+  <Folder Name="/modules/04-recursion-backtracking/" />
+  <Folder Name="/modules/04-recursion-backtracking/src/">
+    <Project Path="modules/04-recursion-backtracking/src/RecursionBacktracking/RecursionBacktracking.csproj" />
+  </Folder>
+  <Folder Name="/modules/04-recursion-backtracking/tests/">
+    <Project Path="modules/04-recursion-backtracking/tests/RecursionBacktracking.Tests/RecursionBacktracking.Tests.csproj" />
+  </Folder>
+  <Folder Name="/modules/05-hashing/" />
+  <Folder Name="/modules/05-hashing/src/">
+    <Project Path="modules/05-hashing/src/Hashing/Hashing.csproj" />
+  </Folder>
+  <Folder Name="/modules/05-hashing/tests/">
+    <Project Path="modules/05-hashing/tests/Hashing.Tests/Hashing.Tests.csproj" />
+  </Folder>
+  <Folder Name="/modules/06-trees-bst/" />
+  <Folder Name="/modules/06-trees-bst/src/">
+    <Project Path="modules/06-trees-bst/src/TreesBst/TreesBst.csproj" />
+  </Folder>
+  <Folder Name="/modules/06-trees-bst/tests/">
+    <Project Path="modules/06-trees-bst/tests/TreesBst.Tests/TreesBst.Tests.csproj" />
+  </Folder>
+  <Folder Name="/modules/07-heaps-priority-queues/" />
+  <Folder Name="/modules/07-heaps-priority-queues/src/">
+    <Project Path="modules/07-heaps-priority-queues/src/Heaps/Heaps.csproj" />
+  </Folder>
+  <Folder Name="/modules/07-heaps-priority-queues/tests/">
+    <Project Path="modules/07-heaps-priority-queues/tests/Heaps.Tests/Heaps.Tests.csproj" />
+  </Folder>
+  <Folder Name="/modules/08-graphs-bfs-dfs/" />
+  <Folder Name="/modules/08-graphs-bfs-dfs/src/">
+    <Project Path="modules/08-graphs-bfs-dfs/src/Graphs/Graphs.csproj" />
+  </Folder>
+  <Folder Name="/modules/08-graphs-bfs-dfs/tests/">
+    <Project Path="modules/08-graphs-bfs-dfs/tests/Graphs.Tests/Graphs.Tests.csproj" />
+  </Folder>
+  <Folder Name="/modules/09-sorting-algorithms/" />
+  <Folder Name="/modules/09-sorting-algorithms/src/">
+    <Project Path="modules/09-sorting-algorithms/src/Sorting/Sorting.csproj" />
+  </Folder>
+  <Folder Name="/modules/09-sorting-algorithms/tests/">
+    <Project Path="modules/09-sorting-algorithms/tests/Sorting.Tests/Sorting.Tests.csproj" />
+  </Folder>
+  <Folder Name="/modules/10-searching-algorithms/" />
+  <Folder Name="/modules/10-searching-algorithms/src/">
+    <Project Path="modules/10-searching-algorithms/src/Searching/Searching.csproj" />
+  </Folder>
+  <Folder Name="/modules/10-searching-algorithms/tests/">
+    <Project Path="modules/10-searching-algorithms/tests/Searching.Tests/Searching.Tests.csproj" />
+  </Folder>
+  <Folder Name="/modules/11-dynamic-programming/" />
+  <Folder Name="/modules/11-dynamic-programming/src/">
+    <Project Path="modules/11-dynamic-programming/src/DynamicProgramming/DynamicProgramming.csproj" />
+  </Folder>
+  <Folder Name="/modules/11-dynamic-programming/tests/">
+    <Project Path="modules/11-dynamic-programming/tests/DynamicProgramming.Tests/DynamicProgramming.Tests.csproj" />
+  </Folder>
+  <Folder Name="/modules/12-tries-union-find/" />
+  <Folder Name="/modules/12-tries-union-find/src/">
+    <Project Path="modules/12-tries-union-find/src/TriesUnionFind/TriesUnionFind.csproj" />
+  </Folder>
+  <Folder Name="/modules/12-tries-union-find/tests/">
+    <Project Path="modules/12-tries-union-find/tests/TriesUnionFind.Tests/TriesUnionFind.Tests.csproj" />
+  </Folder>
+</Solution>
